@@ -5,7 +5,7 @@ issue_tracker: https://github.com/flutter/flutter/issues?q=is%3Aissue+is%3Aopen+
 version: 2.6.1
 publish_to: none
 environment:
-  sdk: ^3.2.3
+  sdk: ^3.2.4
   flutter: ">=3.16.6"
 
 flutter:
@@ -31,7 +31,7 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  pigeon: ^18.0.0
+  pigeon: ^25.2.0
 
 topics:
   - video
